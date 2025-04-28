@@ -1,0 +1,5 @@
+# Python virtual environment
+venv/
+
+# Large files
+venv/Lib/site-packages/xgboost/lib/xgboost.dll
