@@ -123,7 +123,3 @@ The notebook includes visualizations comparing all model performances:
 - Bar charts showing the most influential features
 - SHAP value analysis for XGBoost model
 
-## Author
-Bhargavi Ravilla
-
-© 2024 Bhargavi Ravilla. All rights reserved. Last updated: March 2024.
